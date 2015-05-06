@@ -1,1 +1,1 @@
-web: node cylebot.js cylebot.config.js
+web: node cylebot.js ./cylebot.config.js
