@@ -16,10 +16,10 @@ module.exports = {
 	api_token: 'xoxb-4670173789-A7AVMjV6Jx8oMueFmfflvgdz',
 	
 	// Slack ID of home channel/group, i.e. G123456
-	home_channel: 'sleepingforest',
+	home_channel: 'C04KPKCAX',
 	
 	// what do you want the bot called?
-	bot_name: 'dicebot',
+	bot_name: 'dicarama',
 	
 	// these are the potential emoji the bot will use sometimes
 	kitties: [ ':smile_cat:', ':joy_cat:', ':smiley_cat:', ':heart_eyes_cat:', ':smirk_cat:', ':kissing_cat:', ':pouting_cat:', ':crying_cat_face:', ':scream_cat:' ],

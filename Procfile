@@ -1,0 +1,1 @@
+web: node cylebot.js cylebot.config.js
